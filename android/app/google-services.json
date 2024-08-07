@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262278925503",
+    "project_id": "glorify-project",
+    "storage_bucket": "glorify-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262278925503:android:9ada5744bf9edeeafb8a0a",
+        "android_client_info": {
+          "package_name": "com.twocommandments.glorify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxe2H8uJSFU6GIQKrkJHdVrMt6w1pryDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
