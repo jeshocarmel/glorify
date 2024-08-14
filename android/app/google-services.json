@@ -12,7 +12,20 @@
           "package_name": "com.twocommandments.glorify"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "262278925503-5mr8si5pjehap83qe4f7iovio1pd4ism.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twocommandments.glorify",
+            "certificate_hash": "5cd823751c77921a29cebb200015ce6beef8a4f6"
+          }
+        },
+        {
+          "client_id": "262278925503-0r2qblbqqn828bvkfg8cbccn1kee1drg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAxe2H8uJSFU6GIQKrkJHdVrMt6w1pryDs"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262278925503-0r2qblbqqn828bvkfg8cbccn1kee1drg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262278925503-d5kqmh05r5edjumponlunp41ms63unuv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twocommandments.glorify"
+              }
+            }
+          ]
         }
       }
     }
