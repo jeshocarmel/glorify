@@ -22,8 +22,8 @@ class ForgotPasswordScreenState extends ConsumerState<ForgotPasswordScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(l10n.forgotPasswordScreenTitle),
-        actions: [
-          const LanguageSelector(),
+        actions: const [
+          LanguageSelector(),
         ],
       ),
       body: Padding(
